@@ -19,6 +19,10 @@ The source code of the paper [A Generative Model for Joint Natural Language Unde
 The two used dataset are in data/ folder with different amounts of training data.
 
 ### Training
+Before training, please create the folders with the following command:
+
+	bash create_folders.sh
+
 To train the model, use the script train.sh with the following command:
 
 	bash train.sh $dataset $data_ratio $batch_size $model_dimension $seed
@@ -29,10 +33,12 @@ To train the model, use the script train.sh with the following command:
 - model dimension: 150 / 300
 
 ### Testing
-	To test the model, use the script test.sh with the following command:
+To test the model, use the script test.sh with the following command:
+
 	bash test.sh $dataset $data_ratio $batch_size $model_dimension $model_name
-	- dataset: e2e or weather
-	- data ratio: 5 / 10 / 25 / 50 / 100
-	- batch size: 32 / 64
-	- model dimension: 150 / 300
-	- model name: name of a trained model
+
+- dataset: e2e or weather
+- data ratio: 5 / 10 / 25 / 50 / 100
+- batch size: 32 / 64
+- model dimension: 150 / 300
+- model name: name of a trained model

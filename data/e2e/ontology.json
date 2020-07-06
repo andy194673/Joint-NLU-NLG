@@ -1,0 +1,97 @@
+{
+    "food": [
+        "french",
+        "chinese",
+        "fast-food",
+        "japanese",
+        "indian",
+        "italian",
+        "english"
+    ],
+    "eat_type": [
+        "coffee shop",
+        "restaurant",
+        "pub"
+    ],
+    "area": [
+        "riverside",
+        "city centre"
+    ],
+    "customer_rating": [
+        "high",
+        "3 out of 5",
+        "5 out of 5",
+        "average",
+        "1 out of 5",
+        "low"
+    ],
+    "family_friendly": [
+        "no",
+        "yes"
+    ],
+    "near": [
+        "the sorrento",
+        "the six bells",
+        "caf\u00e9 rouge",
+        "raja indian cuisine",
+        "the portland arms",
+        "all bar one",
+        "caf\u00e9 brazil",
+        "ranch",
+        "yippee noodle bar",
+        "clare hall",
+        "rainbow vegetarian caf\u00e9",
+        "caf\u00e9 adriatic",
+        "express by holiday inn",
+        "the bakers",
+        "burger king",
+        "avalon",
+        "caf\u00e9 sicilia",
+        "crowne plaza hotel",
+        "the rice boat"
+    ],
+    "name": [
+        "the eagle",
+        "the twenty two",
+        "the punter",
+        "the plough",
+        "the rice boat",
+        "zizzi",
+        "green man",
+        "wildwood",
+        "loch fyne",
+        "midsummer house",
+        "the golden curry",
+        "cocum",
+        "the dumpling tree",
+        "alimentum",
+        "the olive grove",
+        "the vaults",
+        "fitzbillies",
+        "the waterman",
+        "travellers rest beefeater",
+        "clowns",
+        "browns cambridge",
+        "the mill",
+        "blue spice",
+        "cotto",
+        "the cambridge blue",
+        "the wrestlers",
+        "taste of cambridge",
+        "the cricketers",
+        "the golden palace",
+        "strada",
+        "bibimbap house",
+        "giraffe",
+        "aromi",
+        "the phoenix"
+    ],
+    "price_range": [
+        "high",
+        "moderate",
+        "\u00a320-25",
+        "less than \u00a320",
+        "cheap",
+        "more than \u00a330"
+    ]
+}
