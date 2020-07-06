@@ -20,7 +20,9 @@ The two used dataset are in data/ folder with different amounts of training data
 
 ### Training
 To train the model, use the script train.sh with the following command:
+
 	bash train.sh $dataset $data_ratio $batch_size $model_dimension $seed
+
 - dataset: e2e or weather
 - data ratio: 5 / 10 / 25 / 50 / 100
 - batch size: 32 / 64
